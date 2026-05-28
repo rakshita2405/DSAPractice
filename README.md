@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rakshita2405/DSAPractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakshita2405/DSAPractice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/rakshita2405/DSAPractice/tree/main/0283-move-zeroes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rakshita2405/DSAPractice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0283-move-zeroes](https://github.com/rakshita2405/DSAPractice/tree/main/0283-move-zeroes/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
